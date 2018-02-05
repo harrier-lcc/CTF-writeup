@@ -3,6 +3,7 @@
 ## As usual Cantonese writeup come first, English writeup at the bottom. This writeup expect you know <useless> ALREADY.
 
 ## Intro (TL;DR)
+Played as VXRL.
 前段由Kris 做, 跟住@samueltangz做左一part再俾我執尾刀 :0)
 
 基本上就係chain 埋 useless 同埋linear block cipher.
@@ -105,6 +106,7 @@ key_x: 6e46174d6a4d447c6f00000000000000 \<\- set其他(128 row 之外)做0
 
 ----
 ## Intro (TL;DR) English writeup
+Played as VXRL.
 Done jointly by Kris, @samueltangz and harrier
 
 Chain Useless and linear block cipher.
