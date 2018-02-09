@@ -1,6 +1,6 @@
 # Useless returnz (Misc ???) 750 pt
 ----
-## As usual Cantonese writeup come first, English writeup at the bottom. This writeup expect you know <useless> ALREADY.
+## As usual Cantonese writeup come first, English writeup at the bottom. This writeup expect you know `useless` ALREADY.
 
 ## Intro (TL;DR)
 Played as VXRL.
